@@ -21,7 +21,7 @@
 
 ### Downloading compiled
 
-You can download lol-aram-boost [right here](https://github.com/x00bence/lol-aram-boost/releases/latest). You can simply run the `.exe` file and not bother with compiling.
+You can download lol-aram-boost [right here](https://github.com/ishyness/Aramboot/releases/latest). You can simply run the `.exe` file and not bother with compiling.
 
 ### Building from source
 
