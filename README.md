@@ -21,7 +21,8 @@
 
 ### Downloading compiled
 
-You can download lol-aram-boost [right here](https://github.com/ishyness/Aramboot/releases/latest). You can simply run the `.exe` file and not bother with compiling.
+You can download lol-aram-boost [right here](https://github.com/ishyness/Aramboot/releases/download/untagged-bcf7ec5d3dfe1f6b6d5e/aramboot.exe). You can simply run the `.exe` file and not bother with compiling.
+Bạn có thể download bản Aramboot exe [tại đây](https://github.com/ishyness/Aramboot/releases/download/untagged-bcf7ec5d3dfe1f6b6d5e/aramboot.exe) chỉ việc cick chạy và tận hưởng.
 
 ### Building from source
 
